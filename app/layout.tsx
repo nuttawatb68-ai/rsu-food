@@ -17,7 +17,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <Navbar />
         {children}
         <footer className="container muted small" style={{ paddingTop: 0 }}>
-          กินอะไรดีมอนี้ © 2026 · Next.js + Prisma + TiDB · Google Places & Gemini
+          กินอะไรดีมอนี้ © 2026 · Next.js + Prisma + TiDB · OPENSTREETMAP & Gemini
         </footer>
       </body>
     </html>
